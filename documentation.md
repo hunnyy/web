@@ -5,7 +5,7 @@ Bookmeetings is a website to manage bookings made by using django, bootstrap, ja
 
 The GUI Window is basically an HTML Canvas which is created with the help of bootstrap framework. There are 7 main views in my website. These are Dashboard, Companies, Meetings, Complaints, Transactions, Events, Rooms.
 
-** Bootstrap **
+## Bootstrap
 
 Bootstrap is a framework for building responsive, mobile-first sites.
 
@@ -17,6 +17,21 @@ This is how bootstrap is implemented:
 
          <!-- Latest compiled and minified JavaScript -->
         <script src="https://stackpath.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js" integrity="sha384-                                 aJ21OjlMXNL5UyIl/XNwTMqvzeRMZH2w8c5cRVpzpU8Y5bApTppSuUkhZXN0VxHd" crossorigin="anonymous"></script>
+        
+** Bootstrap source code **
+
+The Bootstrap source code download includes the precompiled CSS, JavaScript, and font assets, along with source Less, JavaScript, and documentation. More specifically, it includes the following and more:
+
+                                bootstrap/
+                                ├── less/
+                                ├── js/
+                                ├── fonts/
+                                ├── dist/
+                                │   ├── css/
+                                │   ├── js/
+                                │   └── fonts/
+                                └── docs/
+                                    └── examples/
 
 
 

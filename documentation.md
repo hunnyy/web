@@ -32,6 +32,13 @@ The Bootstrap source code download includes the precompiled CSS, JavaScript, and
         │   └── fonts/
         └── docs/
             └── examples/
+            
+## Backend
+
+### Django
+Backend is made by the help of Django. Django is a web framework designed to build complex web applications simply and quickly. It’s written in the Python programming language.Django is designed to work in a slightly modified Model-View-Controller (MVC) pattern. MVC is a software engineering architecture concept describing how a program can change the visual aspect and the business aspect without affecting one another. The original Django developers refer to it as a model, template and view (MTV) framework.
+
+
 
 
 

@@ -22,16 +22,16 @@ This is how bootstrap is implemented:
 
 The Bootstrap source code download includes the precompiled CSS, JavaScript, and font assets, along with source Less, JavaScript, and documentation. More specifically, it includes the following and more:
 
-                                bootstrap/
-                                ├── less/
-                                ├── js/
-                                ├── fonts/
-                                ├── dist/
-                                │   ├── css/
-                                │   ├── js/
-                                │   └── fonts/
-                                └── docs/
-                                    └── examples/
+        bootstrap/
+        ├── less/
+        ├── js/
+        ├── fonts/
+        ├── dist/
+        │   ├── css/
+        │   ├── js/
+        │   └── fonts/
+        └── docs/
+            └── examples/
 
 
 
